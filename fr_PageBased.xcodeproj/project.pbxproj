@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B212CD531CB1B5B300322A48 /* P1280075.JPG in Resources */ = {isa = PBXBuildFile; fileRef = B212CD521CB1B5B300322A48 /* P1280075.JPG */; };
 		B24608251CAB18A40031A370 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24608241CAB18A40031A370 /* AppDelegate.swift */; };
 		B24608271CAB18A40031A370 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B24608261CAB18A40031A370 /* ViewController.swift */; };
 		B246082A1CAB18A40031A370 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B24608281CAB18A40031A370 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B212CD521CB1B5B300322A48 /* P1280075.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = P1280075.JPG; path = "../../../../../Volumes/photo/2016/2016-02-11-LaPalma/2016-02-09-LaPalma/P1280075.JPG"; sourceTree = "<group>"; };
 		B24608211CAB18A40031A370 /* fr_PageBased.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fr_PageBased.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B24608241CAB18A40031A370 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B24608261CAB18A40031A370 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				B24608261CAB18A40031A370 /* ViewController.swift */,
 				B24608281CAB18A40031A370 /* Main.storyboard */,
 				B2A124D21CAC5C8100023EEC /* IMG_3125.JPG */,
+				B212CD521CB1B5B300322A48 /* P1280075.JPG */,
 				B246082E1CAB18A40031A370 /* Assets.xcassets */,
 				B24608301CAB18A40031A370 /* LaunchScreen.storyboard */,
 				B24608331CAB18A40031A370 /* Info.plist */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B24608321CAB18A40031A370 /* LaunchScreen.storyboard in Resources */,
+				B212CD531CB1B5B300322A48 /* P1280075.JPG in Resources */,
 				B246082F1CAB18A40031A370 /* Assets.xcassets in Resources */,
 				B2A124D31CAC5C8100023EEC /* IMG_3125.JPG in Resources */,
 				B246082A1CAB18A40031A370 /* Main.storyboard in Resources */,
